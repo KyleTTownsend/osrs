@@ -1,0 +1,148 @@
+[ACCOUNT]
+character-username = Luke r
+character-password = dfbf995522a9a33765ec619d34450703
+
+[CHARACTER]
+character-height = 0
+character-posx = 2817
+character-posy = 3338
+character-rights = 0
+character-lastconnection = pool-72-74-105-124.bstnma.east.verizon.net
+character-special = 100
+character-tz = -1
+character-starter = 1
+character-pouch1 = 0
+character-pouch2 = 0
+character-pouch3 = 0
+character-pouch4 = 0
+character-energy = 1000
+character-taskID = -1
+character-taskAmount = -1
+character-jad = 0
+character-q1 = 15
+character-q2 = 15
+character-q3 = 15
+character-q4 = 15
+character-q5 = 15
+character-q6 = 15
+character-q7 = 15
+character-q8 = 15
+character-q9 = 15
+character-q10 = 15
+character-q11 = 15
+character-Ahrim = 0
+character-Verac = 0
+character-Dharok =0
+character-Torag = 0
+character-Karils =0
+character-Guthan =0
+character-Barrows 0
+character-brightness = 0
+character-fighttype = 1
+character-skill = 0
+character-pkingPoints0
+character-chat = 0
+character-ancients = 0
+character-pin = 0
+character-saradomin = 0
+character-retaliate = 0
+character-action = 0
+character-pcpoints = 0
+character-assault = 0
+character-donator = 0
+character-bow = 100
+character-shield = 100
+character-expLock = false
+character-startr = 20
+
+[EQUIPMENT]
+character-equip = 0	2990	1	
+character-equip = 1	1052	1	
+character-equip = 2	1725	1	
+character-equip = 3	1351	1	
+character-equip = 4	6186	1	
+character-equip = 5	3840	1	
+character-equip = 6	-1	0	
+character-equip = 7	6185	1	
+character-equip = 8	-1	0	
+character-equip = 9	1580	1	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	1
+character-look = 2	14
+character-look = 3	21
+character-look = 4	27
+character-look = 5	33
+character-look = 6	38
+character-look = 7	42
+character-look = 8	11
+character-look = 9	1
+character-look = 10	2
+character-look = 11	0
+character-look = 12	0
+character-look = 13	0
+character-look = 14	11
+character-look = 15	1
+character-look = 16	2
+character-look = 17	0
+character-look = 18	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	10	1155
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	53	140400
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	47	75600
+character-skill = 12	60	279500
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	188	0
+
+[ITEMS]
+character-item = 23	591	1
+
+[BANK]
+character-bank = 0	386	2000
+character-bank = 1	1172	1
+character-bank = 2	842	1
+character-bank = 3	1334	1
+character-bank = 4	1324	1
+character-bank = 5	883	100
+character-bank = 6	564	100
+character-bank = 7	555	100
+character-bank = 8	557	100
+character-bank = 9	562	100
+character-bank = 10	4085	1
+character-bank = 13	1266	1
+character-bank = 14	1756	1
+character-bank = 15	2348	1
+character-bank = 16	5606	1
+character-bank = 17	996	10442723
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

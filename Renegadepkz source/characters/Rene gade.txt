@@ -1,0 +1,174 @@
+[ACCOUNT]
+character-username = Rene gade
+character-password = 9ce5a6cf7699aa4108717da513486f00
+
+[CHARACTER]
+character-height = 0
+character-posx = 3212
+character-posy = 3434
+character-rights = 0
+character-lastconnection = cpe-76-180-52-119.buffalo.res.rr.com
+character-special = 100
+character-tz = -1
+character-starter = 1
+character-pouch1 = 0
+character-pouch2 = 0
+character-pouch3 = 0
+character-pouch4 = 0
+character-energy = 1000
+character-taskID = 2604
+character-taskAmount = 29
+character-jad = 0
+character-q1 = 15
+character-q2 = 15
+character-q3 = 15
+character-q4 = 15
+character-q5 = 15
+character-q6 = 15
+character-q7 = 15
+character-q8 = 15
+character-q9 = 15
+character-q10 = 15
+character-q11 = 15
+character-Ahrim = 0
+character-Verac = 0
+character-Dharok =0
+character-Torag = 0
+character-Karils =0
+character-Guthan =0
+character-Barrows 0
+character-brightness = 0
+character-fighttype = 2
+character-skill = 2
+character-pkingPoints0
+character-chat = 0
+character-ancients = 0
+character-pin = 0
+character-saradomin = 0
+character-retaliate = 0
+character-action = 0
+character-pcpoints = 0
+character-assault = 0
+character-donator = 0
+character-bow = 100
+character-shield = 100
+character-expLock = false
+character-startr = 61
+
+[EQUIPMENT]
+character-equip = 0	3751	1	
+character-equip = 1	1052	1	
+character-equip = 2	1704	1	
+character-equip = 3	4587	1	
+character-equip = 4	6129	1	
+character-equip = 5	3842	1	
+character-equip = 6	-1	0	
+character-equip = 7	6130	1	
+character-equip = 8	-1	0	
+character-equip = 9	1580	1	
+character-equip = 10	4131	1	
+character-equip = 11	-1	0	
+character-equip = 12	2550	1	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	2
+character-look = 2	10
+character-look = 3	18
+character-look = 4	26
+character-look = 5	33
+character-look = 6	36
+character-look = 7	42
+character-look = 8	1
+character-look = 9	1
+character-look = 10	2
+character-look = 11	3
+character-look = 12	0
+character-look = 13	0
+character-look = 14	1
+character-look = 15	1
+character-look = 16	2
+character-look = 17	3
+character-look = 18	0
+
+[SKILLS]
+character-skill = 0	53	282000
+character-skill = 1	65	66750
+character-skill = 2	79	1886250
+character-skill = 3	78	1640155
+character-skill = 4	1	0
+character-skill = 5	46	69832
+character-skill = 6	65	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	78	1682500
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	36	25080
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	66	497000
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	502	0
+
+[ITEMS]
+character-item = 0	5699	1
+character-item = 1	2443	1
+character-item = 2	2437	1
+character-item = 3	2441	1
+character-item = 4	6530	56799
+character-item = 7	3025	1
+character-item = 11	3025	1
+character-item = 15	3025	1
+character-item = 17	386	1
+character-item = 18	386	1
+character-item = 19	3025	1
+character-item = 20	386	1
+character-item = 21	386	1
+character-item = 22	386	1
+character-item = 23	3025	1
+character-item = 24	386	1
+character-item = 25	386	1
+character-item = 26	386	1
+character-item = 27	386	1
+
+[BANK]
+character-bank = 0	386	1983
+character-bank = 1	883	100
+character-bank = 2	564	100
+character-bank = 3	555	100
+character-bank = 4	557	100
+character-bank = 5	562	100
+character-bank = 6	842	1
+character-bank = 7	1324	1
+character-bank = 8	3043	2
+character-bank = 9	6863	5
+character-bank = 11	3106	1
+character-bank = 12	6108	1
+character-bank = 13	6109	1
+character-bank = 14	164	1
+character-bank = 15	1622	5
+character-bank = 16	1713	26
+character-bank = 18	2437	4
+character-bank = 19	2443	4
+character-bank = 20	2441	4
+character-bank = 21	3025	6
+character-bank = 22	6542	1
+character-bank = 23	1172	1
+character-bank = 24	996	9779096
+
+[FRIENDS]
+character-friend = 0	141034590
+
+[IGNORES]
+
+[EOF]
+

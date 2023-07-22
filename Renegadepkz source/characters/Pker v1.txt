@@ -1,0 +1,147 @@
+[ACCOUNT]
+character-username = Pker v1
+character-password = ca016be1381c1563eb4693251eb22e80
+
+[CHARACTER]
+character-height = 0
+character-posx = 2871
+character-posy = 3589
+character-rights = 0
+character-lastconnection = 195-240-123-139.ip.telfort.nl
+character-special = 75
+character-tz = -1
+character-starter = 1
+character-pouch1 = 0
+character-pouch2 = 0
+character-pouch3 = 0
+character-pouch4 = 0
+character-energy = 1000
+character-taskID = -1
+character-taskAmount = -1
+character-jad = 0
+character-q1 = 15
+character-q2 = 15
+character-q3 = 15
+character-q4 = 15
+character-q5 = 15
+character-q6 = 15
+character-q7 = 15
+character-q8 = 15
+character-q9 = 15
+character-q10 = 15
+character-q11 = 15
+character-Ahrim = 0
+character-Verac = 0
+character-Dharok =0
+character-Torag = 0
+character-Karils =0
+character-Guthan =0
+character-Barrows 0
+character-brightness = 0
+character-fighttype = 2
+character-skill = 2
+character-pkingPoints0
+character-chat = 0
+character-ancients = 0
+character-pin = 0
+character-saradomin = 0
+character-retaliate = 0
+character-action = 0
+character-pcpoints = 0
+character-assault = 0
+character-donator = 0
+character-bow = 100
+character-shield = 100
+character-expLock = false
+character-startr = 61
+
+[EQUIPMENT]
+character-equip = 0	2643	1	
+character-equip = 1	1052	1	
+character-equip = 2	-1	0	
+character-equip = 3	861	1	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	3059	1	
+character-equip = 8	-1	0	
+character-equip = 9	3060	1	
+character-equip = 10	3061	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	892	865	
+
+[LOOK]
+character-look = 0	1
+character-look = 1	50
+character-look = 2	0
+character-look = 3	57
+character-look = 4	61
+character-look = 5	67
+character-look = 6	72
+character-look = 7	80
+character-look = 8	1
+character-look = 9	1
+character-look = 10	2
+character-look = 11	2
+character-look = 12	2
+character-look = 13	1
+character-look = 14	1
+character-look = 15	1
+character-look = 16	2
+character-look = 17	2
+character-look = 18	2
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	60	291555
+character-skill = 4	63	396000
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	90	5474730
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	63	394270
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	294	0
+
+[ITEMS]
+character-item = 0	883	333
+character-item = 1	996	66306662
+character-item = 2	882	849
+character-item = 3	2492	1
+character-item = 4	2498	1
+character-item = 5	838	1
+
+[BANK]
+character-bank = 0	386	1998
+character-bank = 1	555	100
+character-bank = 2	562	100
+character-bank = 3	557	100
+character-bank = 4	564	100
+character-bank = 5	1324	1
+character-bank = 6	1334	1
+character-bank = 7	1172	1
+character-bank = 8	1360	1
+
+[FRIENDS]
+character-friend = 0	569963
+
+[IGNORES]
+
+[EOF]
+

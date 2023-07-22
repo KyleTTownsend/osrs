@@ -1,0 +1,70 @@
+Bones to Bananas: 4135
+Bones to Peaches: 62005
+Charge: 4169
+Attack Stat: 33206
+Strength Stat: 33209
+Defence Stat: 33212
+Range Stat: 33215
+Prayer Stat: 33218
+Magic Stat: 33221
+RuneCrafting Stat: 33224
+Hitpoints Stat: 33207
+Agility Stat: 33210
+Herblore Stat: 33213
+Thieving Stat: 33216
+Crafting Stat: 33219
+Fletching Stat: 33222
+Slayer Stat: 47130
+Mining Stat: 33208
+Smithing Stat: 33221
+Fishing Stat: 33214
+Cooking Stat: 33217
+Firemaking Stat: 33220
+Woodcutting Stat: 33223
+Farming Stat: 54104
+Screen Brightness (Dark): 21076
+Screen Brightness (Normal): 24129
+Screen Brightness (Bright): 24131
+Screen Brightness (V-Bright): 24133
+Mouse Buttons (One): 24135
+Mouse Buttons (Two): 24134
+Chat Effects (On): 24136
+Chat Effects (Off): 24137
+Split Private-chat (On): 3184
+Split Private-chat (Off): 3185
+Accept Aid (Yes): 49047
+Accept Aid (No): 49046
+Auto retaliate (On): 150
+Auto retaliate (Off): 151
+Accurate Attack Style (Stab): 8234
+Aggressive Attack Style (Lunge): 8237
+Aggressive Attack Style (Slash): 8236
+Defensive Attack Style (Block): 8235
+Emote (No): 169
+Emote (Think): 162
+Emote (Bow): 164
+Emote (Angry): 165
+Emote (Cry): 161
+Emote (Laugh): 170
+Emote (Cheer): 171
+Emote (Wave): 163
+Emote (Beckon): 167
+Emote (Clap): 172
+Emote (Dance): 166
+Emote (Panic): 52050
+Emote (Jig): 52051
+Emote (Spin): 52052
+Emote (Head Bang): 52053
+Emote (Joy Jump): 52054
+Emote (Rasp'berry): 52055
+Emote (Yawn): 52056
+Emote (Salute): 52057
+Emote (Shrug): 52058
+Emote (Blow Kiss): 43092
+Emote (Glass Box): 2155
+Emote (Climb Rope): 25103
+Emote (Lean): 25106
+Emote (Glass Wall): 2154
+Emote (Goblin Bow): 52071
+Emote (Goblin Dance): 52072
+Emote (Scared): 59062

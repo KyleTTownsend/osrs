@@ -1,0 +1,287 @@
+# Chilli potato:
+def item_select_7054(player, slot):
+	eat(player, 7054, slot, 14)
+		
+# tuna potato:
+def item_select_7060(player, slot):
+	eat(player, 7060, slot, 22)
+
+# manta ray:
+def item_select_391(player, slot):
+	eat(player, 391, slot, 22)
+
+# bandages:
+def item_select_4049(player, slot):
+	eat(player, 4049, slot, 15)
+
+# shark:
+def item_select_385(player, slot):
+	eat(player, 385, slot, 20)
+
+# anchovies:
+def item_select_319(player, slot):
+	eat(player, 319, slot, 1)
+
+# shrimp:
+def item_select_315(player, slot):
+	eat(player, 315, slot, 3)
+
+# cooked chicken:
+def item_select_2140(player, slot):
+	eat(player, 2140, slot, 3)
+
+# cooked meat:
+def item_select_2142(player, slot):
+	eat(player, 2142, slot, 3)
+
+# cooked rabbit:
+def item_select_3228(player, slot):
+	eat(player, 3228, slot, 3)
+ 
+# roast bird meat:
+def item_select_9980(player, slot):
+	eat(player, 9980, slot, 6)
+ 
+# roast rabbit:
+def item_select_7223(player, slot):
+	eat(player, 7223, slot, 7)
+ 
+# roast beast meat:
+def item_select_9988(player, slot):
+	eat(player, 9988, slot, 8)
+ 
+# crab meat:
+def item_select_7521(player, slot):
+	eat(player, 7521, slot, 10)
+  
+# apple pie:
+def item_select_2323(player, slot):
+	eat(player, 2323, slot, 14)
+  
+# redberry pie:
+def item_select_2325(player, slot):
+	eat(player, 2325, slot, 10)
+  
+# meat pie:
+def item_select_2327(player, slot):
+	eat(player, 2327, slot, 12)
+  
+# garden pie:
+def item_select_7178(player, slot):
+	eat(player, 7178, slot, 12)
+  
+# fish pie:
+def item_select_7188(player, slot):
+	eat(player, 7188, slot, 12)
+  
+# admiral pie:
+def item_select_7198(player, slot):
+	eat(player, 7198, slot, 16)
+   
+# wild pie:
+def item_select_7208(player, slot):
+	eat(player, 7208, slot, 22)
+ 
+# summer pie:
+def item_select_7218(player, slot):
+	eat(player, 7218, slot, 22)
+   
+# half an apple pie:
+def item_select_2335(player, slot):
+	eat(player, 2335, slot, 7)
+  
+# half a redberry pie:
+def item_select_2333(player, slot):
+	eat(player, 2333, slot, 5)
+  
+# half a meat pie:
+def item_select_2331(player, slot):
+	eat(player, 2331, slot, 6)
+  
+# half a garden pie:
+def item_select_7180(player, slot):
+	eat(player, 7180, slot, 6)
+  
+# half a fish pie:
+def item_select_7190(player, slot):
+	eat(player, 7190, slot, 6)
+  
+# half an admiral pie:
+def item_select_7200(player, slot):
+	eat(player, 7200, slot, 8)
+   
+# half a wild pie:
+def item_select_7210(player, slot):
+	eat(player, 7210, slot, 11)
+ 
+# half a summer pie:
+def item_select_7220(player, slot):
+	eat(player, 7220, slot, 11)
+ 
+# chompy bird:
+def item_select_2878(player, slot):
+	eat(player, 2878, slot, 10)
+ 
+# jubbly bird:
+def item_select_7568(player, slot):
+	eat(player, 7568, slot, 15)
+ 
+# bread:
+def item_select_2309(player, slot):
+	eat(player, 2309, slot, 5)
+
+# sardine:
+def item_select_325(player, slot):
+	eat(player, 325, slot, 4)
+
+# herring:
+def item_select_347(player, slot):
+	eat(player, 347, slot, 5)
+
+# mackerel:
+def item_select_355(player, slot):
+	eat(player, 355, slot, 6)
+
+# trout:
+def item_select_333(player, slot):
+	eat(player, 333, slot, 7)
+
+# cod:
+def item_select_339(player, slot):
+	eat(player, 339, slot, 7)
+
+# pike:
+def item_select_351(player, slot):
+	eat(player, 351, slot, 8)
+
+# slimy eel:
+def item_select_3381(player, slot):
+	eat(player, 3381, slot, 8)
+
+# rainbow fish:
+def item_select_10136(player, slot):
+	eat(player, 10136, slot, 11)
+
+# salmon:
+def item_select_329(player, slot):
+	eat(player, 329, slot, 9)
+
+# tuna:
+def item_select_361(player, slot):
+	eat(player, 361, slot, 10)
+
+# lobster:
+def item_select_379(player, slot):
+	eat(player, 379, slot, 12)
+
+# bass:
+def item_select_365(player, slot):
+	eat(player, 365, slot, 12)
+
+# swordfish:
+def item_select_373(player, slot):
+	eat(player, 373, slot, 14)
+
+# monkfish:
+def item_select_7946(player, slot):
+	eat(player, 7946, slot, 16)
+
+# sea turtle:
+def item_select_397(player, slot):
+	eat(player, 397, slot, 21)
+
+# lava eel:
+def item_select_2149(player, slot):
+	eat(player, 2149, slot, 14)
+
+# pink sweets:
+def item_select_4564(player, slot):
+ eat(player, 4564, slot, 3)
+
+# green sweets:
+def item_select_4563(player, slot):
+ eat(player, 4563, slot, 3)
+
+# red sweets:
+def item_select_4562(player, slot):
+ eat(player, 4562, slot, 3)
+
+# purple sweets:
+def item_select_4561(player, slot):
+ eat(player, 4561, slot, 3)
+
+# white sweets:
+def item_select_4560(player, slot):
+ eat(player, 4560, slot, 3)
+
+# blue sweets:
+def item_select_4558(player, slot):
+ eat(player, 4558, slot, 3)
+
+# deep blue sweets:
+def item_select_4562(player, slot):
+ eat(player, 4562, slot, 3)
+
+# plain pizza:
+def item_select_2289(player, slot):
+ eat(player, 2289, slot, 16)
+
+# 1/2 plain pizza:
+def item_select_2291(player, slot):
+ eat(player, 2291, slot, 8)
+
+# meat pizza:
+def item_select_2293(player, slot):
+ eat(player, 2293, slot, 18)
+
+# 1/2 meat pizza:
+def item_select_2295(player, slot):
+ eat(player, 2295, slot, 9)
+
+# anchovy pizza:
+def item_select_2297(player, slot):
+ eat(player, 2297, slot, 16)
+
+# 1/2 anchovy pizza:
+def item_select_2299(player, slot):
+ eat(player, 2299, slot, 8)
+
+# pineapple pizza:
+def item_select_2301(player, slot):
+ eat(player, 2301, slot, 16)
+
+# 1/2 pineapple pizza:
+def item_select_2303(player, slot):
+ eat(player, 2303, slot, 8)
+
+# baked potato:
+def item_select_6701(player, slot):
+	eat(player, 6701, slot, 4)
+	
+# sweetcorn:
+def item_select_5986(player, slot):
+	eat(player, 5986, slot, 10)
+	
+# potato with butter:
+def item_select_6703(player, slot):
+	eat(player, 6703, slot, 14)
+	
+# potato with cheese:
+def item_select_6705(player, slot):
+	eat(player, 6705, slot, 16)
+	
+# egg potato:
+def item_select_7056(player, slot):
+	eat(player, 7056, slot, 16)
+	
+# mushroom potato:
+def item_select_7058(player, slot):
+	eat(player, 7058, slot, 20)
+	
+# chilli con carne:
+def item_select_7062(player, slot):
+	eat(player, 7062, slot, 5)	
+
+# egg and tomato:
+def item_select_7064(player, slot):
+	eat(player, 7064, slot, 8)

@@ -1,0 +1,175 @@
+[ACCOUNT]
+character-username = Doomer
+character-password = a1e2f2707342f394efab54c00f515350
+
+[CHARACTER]
+character-height = 0
+character-posx = 3212
+character-posy = 3435
+character-rights = 0
+character-lastconnection = adsl-99-15-91-164.lightspeed.stchmo.sbcglobal.net
+character-special = 100
+character-tz = -1
+character-starter = 1
+character-pouch1 = 0
+character-pouch2 = 0
+character-pouch3 = 0
+character-pouch4 = 0
+character-energy = 1000
+character-taskID = 2591
+character-taskAmount = 14
+character-jad = 0
+character-q1 = 15
+character-q2 = 15
+character-q3 = 15
+character-q4 = 15
+character-q5 = 15
+character-q6 = 15
+character-q7 = 15
+character-q8 = 15
+character-q9 = 15
+character-q10 = 15
+character-q11 = 15
+character-Ahrim = 0
+character-Verac = 0
+character-Dharok =0
+character-Torag = 0
+character-Karils =0
+character-Guthan =0
+character-Barrows 0
+character-brightness = 0
+character-fighttype = 2
+character-skill = 2
+character-pkingPoints0
+character-chat = 0
+character-ancients = 0
+character-pin = 0
+character-saradomin = 0
+character-retaliate = 1
+character-action = 0
+character-pcpoints = 0
+character-assault = 1
+character-donator = 0
+character-bow = 100
+character-shield = 100
+character-expLock = false
+character-startr = 61
+
+[EQUIPMENT]
+character-equip = 0	2712	1	
+character-equip = 1	4361	1	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	3
+character-look = 2	14
+character-look = 3	18
+character-look = 4	26
+character-look = 5	33
+character-look = 6	36
+character-look = 7	42
+character-look = 8	0
+character-look = 9	0
+character-look = 10	0
+character-look = 11	0
+character-look = 12	0
+character-look = 13	0
+character-look = 14	0
+character-look = 15	0
+character-look = 16	0
+character-look = 17	0
+character-look = 18	0
+
+[SKILLS]
+character-skill = 0	80	1991250
+character-skill = 1	70	747000
+character-skill = 2	84	3117000
+character-skill = 3	87	4295005
+character-skill = 4	1	0
+character-skill = 5	21	5502
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	72	899600
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	76	1376500
+character-skill = 13	1	0
+character-skill = 14	23	7000
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	99	15481920
+character-skill = 18	32	16500
+character-skill = 19	67	553000
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	722	0
+
+[ITEMS]
+character-item = 5	386	1
+character-item = 8	386	1
+character-item = 9	386	1
+character-item = 10	386	1
+character-item = 11	386	1
+character-item = 12	386	1
+character-item = 13	386	1
+character-item = 14	386	1
+character-item = 15	386	1
+character-item = 16	386	1
+character-item = 17	386	1
+character-item = 18	386	1
+character-item = 19	386	1
+character-item = 20	386	1
+character-item = 21	386	1
+character-item = 22	386	1
+character-item = 23	386	1
+character-item = 24	386	1
+character-item = 25	386	1
+character-item = 26	386	1
+character-item = 27	386	1
+
+[BANK]
+character-bank = 1	564	100
+character-bank = 2	555	100
+character-bank = 3	557	100
+character-bank = 4	883	100
+character-bank = 5	562	100
+character-bank = 6	842	1
+character-bank = 7	1172	1
+character-bank = 8	4132	1
+character-bank = 9	1334	2
+character-bank = 10	1324	1
+character-bank = 11	4046	1
+character-bank = 12	1512	86
+character-bank = 13	1522	188
+character-bank = 16	1756	1
+character-bank = 17	386	1954
+character-bank = 20	1618	1
+character-bank = 21	6530	121
+
+[FRIENDS]
+character-friend = 0	537515828506935
+character-friend = 1	1179250829512
+character-friend = 2	765719841
+character-friend = 3	237077094
+character-friend = 4	1068767818993
+character-friend = 5	1559001134218
+
+[IGNORES]
+
+[EOF]
+

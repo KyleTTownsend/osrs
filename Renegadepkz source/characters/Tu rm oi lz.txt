@@ -1,0 +1,186 @@
+[ACCOUNT]
+character-username = Tu rm oi lz
+character-password = 8c786bd12e30b286fa1d74645131c6ba
+
+[CHARACTER]
+character-height = 0
+character-posx = 3551
+character-posy = 9694
+character-rights = 0
+character-lastconnection = 92.4.156.230
+character-special = 100
+character-tz = -1
+character-starter = 1
+character-pouch1 = 0
+character-pouch2 = 0
+character-pouch3 = 0
+character-pouch4 = 0
+character-energy = 1000
+character-taskID = 78
+character-taskAmount = 39
+character-jad = 0
+character-q1 = 15
+character-q2 = 15
+character-q3 = 15
+character-q4 = 15
+character-q5 = 15
+character-q6 = 15
+character-q7 = 15
+character-q8 = 15
+character-q9 = 15
+character-q10 = 15
+character-q11 = 15
+character-Ahrim = 0
+character-Verac = 0
+character-Dharok =0
+character-Torag = 0
+character-Karils =0
+character-Guthan =0
+character-Barrows 0
+character-brightness = 0
+character-fighttype = 2
+character-skill = 2
+character-pkingPoints0
+character-chat = 0
+character-ancients = 0
+character-pin = 0
+character-saradomin = 0
+character-retaliate = 0
+character-action = 0
+character-pcpoints = 0
+character-assault = 0
+character-donator = 0
+character-bow = 100
+character-shield = 100
+character-expLock = false
+character-startr = 61
+
+[EQUIPMENT]
+character-equip = 0	2994	1	
+character-equip = 1	7535	1	
+character-equip = 2	6585	1	
+character-equip = 3	4587	1	
+character-equip = 4	6107	1	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	6108	1	
+character-equip = 8	-1	0	
+character-equip = 9	5556	1	
+character-equip = 10	3105	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	892	150	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	3
+character-look = 2	11
+character-look = 3	18
+character-look = 4	26
+character-look = 5	33
+character-look = 6	36
+character-look = 7	42
+character-look = 8	8
+character-look = 9	0
+character-look = 10	0
+character-look = 11	0
+character-look = 12	6
+character-look = 13	0
+character-look = 14	8
+character-look = 15	0
+character-look = 16	0
+character-look = 17	0
+character-look = 18	6
+
+[SKILLS]
+character-skill = 0	50	281250
+character-skill = 1	1	0
+character-skill = 2	68	616500
+character-skill = 3	71	883905
+character-skill = 4	61	306000
+character-skill = 5	44	58362
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	20
+character-skill = 17	80	2006420
+character-skill = 18	1	0
+character-skill = 19	51	112000
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	450	0
+
+[ITEMS]
+character-item = 0	386	1
+character-item = 1	386	1
+character-item = 2	386	1
+character-item = 3	386	1
+character-item = 4	386	1
+character-item = 5	386	1
+character-item = 6	386	1
+character-item = 7	386	1
+character-item = 8	386	1
+character-item = 9	386	1
+character-item = 10	386	1
+character-item = 11	386	1
+character-item = 12	386	1
+character-item = 13	386	1
+character-item = 14	386	1
+character-item = 15	386	1
+character-item = 16	386	1
+character-item = 17	386	1
+character-item = 18	386	1
+character-item = 19	386	1
+character-item = 20	386	1
+character-item = 21	386	1
+character-item = 22	3205	1
+character-item = 23	386	1
+character-item = 24	386	1
+character-item = 25	386	1
+character-item = 26	386	1
+character-item = 27	3041	1
+
+[BANK]
+character-bank = 0	6069	1
+character-bank = 1	6185	1
+character-bank = 2	1034	1
+character-bank = 3	1581	1
+character-bank = 4	3062	1
+character-bank = 5	2644	1
+character-bank = 6	883	43
+character-bank = 7	842	1
+character-bank = 8	3843	1
+character-bank = 9	6182	1
+character-bank = 10	386	1967
+character-bank = 11	996	5207083
+character-bank = 12	6530	9600
+character-bank = 13	3045	1
+character-bank = 14	862	1
+character-bank = 15	564	100
+character-bank = 16	555	100
+character-bank = 17	557	100
+character-bank = 18	1324	1
+character-bank = 19	838	1
+character-bank = 20	562	100
+character-bank = 21	4085	1
+character-bank = 22	1334	1
+character-bank = 23	4171	1
+character-bank = 24	5699	1
+character-bank = 25	4154	1
+
+[FRIENDS]
+character-friend = 0	2492643906068
+
+[IGNORES]
+
+[EOF]
+
